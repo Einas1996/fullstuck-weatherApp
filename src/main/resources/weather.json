@@ -1,0 +1,53 @@
+[
+  {
+    "cityName": "Amsterdam",
+    "temperature": 15.5,
+    "description": "Cloudy"
+  },
+  {
+    "cityName": "Rotterdam",
+    "temperature": 18.0,
+    "description": "Sunny"
+  },
+  {
+    "cityName": "Utrecht",
+    "temperature": 16.5,
+    "description": "Cloudy"
+  },
+  {
+    "cityName": "The Hague",
+    "temperature": 17.0,
+    "description": "Rainy"
+  },
+  {
+    "cityName": "Eindhoven",
+    "temperature": 19.2,
+    "description": "Clear"
+  },
+  {
+    "cityName": "Groningen",
+    "temperature": 14.8,
+    "description": "Overcast"
+  },
+  {
+    "cityName": "Nijmegen",
+    "temperature": 16.0,
+    "description": "Windy"
+  },
+  {
+    "cityName": "Breda",
+    "temperature": 17.5,
+    "description": "Sunny"
+  },
+  {
+    "cityName": "Leiden",
+    "temperature": 15.0,
+    "description": "Cloudy"
+  },
+  {
+    "cityName": "Haarlem",
+    "temperature": 18.3,
+    "description": "Mist"
+  }
+]
+
